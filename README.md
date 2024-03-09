@@ -1,4 +1,4 @@
-# 🚀 [Prompt Engineering with Llama 2](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/?utm_campaign=meta-launch&utm_medium=email&_hsmi=296037169&_hsenc=p2ANqtz-_EQ4vou68TYSojcqOKunpwtNFvY9B4UrCe24nA6CUwpOwFNifyKtr153YNRMY3CmVxXXtYBpNhQ7Sca7W5ln5m_kzLfg&utm_content=296037169&utm_source=hs_email)
+# 🚀 [Prompt Engineering with Llama 2](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/)
 
 💻 Welcome to the "Prompt Engineering with Llama 2" course! Instructed by Amit Sangani, Senior Director of Partner Engineering at Meta, this course will guide you through best practices for prompting and building applications with the powerful open commercial license models of Llama 2.
 
