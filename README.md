@@ -2,6 +2,11 @@
 
 💻 Welcome to the "Prompt Engineering with Llama 2" course! Instructed by Amit Sangani, Senior Director of Partner Engineering at Meta, this course will guide you through best practices for prompting and building applications with the powerful open commercial license models of Llama 2.
 
+<p align="center">
+<img src="images/1_2.png" height="250"> 
+<img src="images/1_3.png" height="250"> 
+</p>
+
 ## Course Summary
 In this course, you'll delve into best practices for prompting and utilizing the powerful Llama 2 collection of models. Here's what you can expect to learn and experience:
 
