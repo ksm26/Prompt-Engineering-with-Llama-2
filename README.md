@@ -11,6 +11,11 @@
 In this course, you'll delve into best practices for prompting and utilizing the powerful Llama 2 collection of models. Here's what you can expect to learn and experience:
 
 1. 🤖 **Prompt Engineering Techniques**: Learn best practices for prompting and selecting among the Llama 2 models.
+<p align="center">
+<img src="images/2_1.png" height="300"> 
+<img src="images/2_3.png" height="300"> 
+</p>
+
 2. 🌐 **Model Interaction**: Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.
 3. 🛡️ **Safe and Responsible AI**: Promote safe and responsible use of LLMs by utilizing the Llama Guard model.
 4. 🔄 **Advanced Prompt Engineering**: Experiment with advanced prompt engineering techniques, like few-shot prompting and chain-of-thought prompting.
