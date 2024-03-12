@@ -17,6 +17,10 @@ In this course, you'll delve into best practices for prompting and utilizing the
 </p>
 
 2. 🌐 **Model Interaction**: Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.
+<p align="center">
+<img src="images/3_1.png" height="300"> 
+</p>
+
 3. 🛡️ **Safe and Responsible AI**: Promote safe and responsible use of LLMs by utilizing the Llama Guard model.
 4. 🔄 **Advanced Prompt Engineering**: Experiment with advanced prompt engineering techniques, like few-shot prompting and chain-of-thought prompting.
 
