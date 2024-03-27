@@ -32,6 +32,10 @@ In this course, you'll delve into best practices for prompting and utilizing the
 - 🔎 Learn best practices specific to prompting Llama 2 models.
 - 🤖 Interact with Meta Llama 2 Chat, Code Llama, and Llama Guard models.
 - 🛡️ Build safe, responsible AI applications using the Llama Guard model.
+<p align="center">
+<img src="images/7_1.png" height="300"> 
+<img src="images/7_3.png" height="300"> 
+</p>
 
 ## About the Instructor
 🌟 **Amit Sangani** is the Senior Director of Partner Engineering at Meta, bringing extensive expertise to guide you through best practices in prompt engineering with Llama 2.
